@@ -3,7 +3,7 @@
 
 ## Welcome to our Issue Tracker!
 
-To report a problem please select the "Issue" tab above, or to suggest a feature click on "Discussions".
+### To report a problem please select the [Issue](https://github.com/BadWolfMC/BadWolfMC-Issue-Tracker/issues) tab above. To suggest a feature click on [Discussions](https://github.com/BadWolfMC/BadWolfMC-Issue-Tracker/discussions).
 
 ## About Us
 
