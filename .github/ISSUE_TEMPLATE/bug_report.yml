@@ -1,0 +1,39 @@
+name: Bug Report
+description: Create a bug report to help us improve BadWolfMC!
+labels: bug report
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This page is intended to help us resolve issues with BadWolfMC as fast as possible. 
+        Please take your time and fill out this form to the best of your abilities.
+        Note: Each report here should only contain one issue. If you have multiple, please create a new issue for each.
+  - type: textarea
+    id: description-of-issue
+    attributes:
+      label: Description of Issue
+      description: |
+        Please provide a concise description of your issue.
+    validations:
+      required: true
+  - type: textarea
+    id: location
+    attributes:
+      label: Location
+      description: Please provide us with the location where you experienced this issue. Give exact coordinates if possible.
+    validations:
+      required: true
+  - type: textarea
+    id: errors
+    attributes:
+      label: Errors
+      description: Please provide any feedback errors that you saw in game, including the color of the error if possible.
+      placeholder: Include any errors you received here.
+  - type: checkboxes
+    id: agreement-section
+    attributes:
+      label: Agreements
+      description: Please agree to the following.
+      options:
+        - label: I have searched the existing issues on GitHub and asked around before making this report.
+          required: true
