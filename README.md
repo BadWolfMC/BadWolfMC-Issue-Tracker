@@ -3,7 +3,7 @@
 
 ## Welcome to our Issue Tracker!
 
-To report a problem please select the "Issue" tab above.
+To report a problem please select the "Issue" tab above, or to suggest a feature click on "Discussions".
 
 ## About Us
 
